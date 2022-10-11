@@ -1,4 +1,4 @@
-# Projects
+# Project Showcase
 
 # Etch-A-Sketch
 
@@ -35,7 +35,7 @@ npm install
 
 # Calculator
 
-![demo](./src/img/demo.png?raw=true)
+![demo](./assets/calculator.png?raw=true)
 
 A simple webpage calculator application
 
@@ -47,7 +47,7 @@ A simple calculator application webpage that uses HTML, CSS, and Javascript. It 
 
 ### Mobile Display
 
-<img src="./src/img/demo-mobile.png" height="700">
+<img src="./assets/calculator-mobile.png" height="700">
 
 ## Development
 
@@ -58,7 +58,7 @@ A simple calculator application webpage that uses HTML, CSS, and Javascript. It 
 
 # Skiru.js
 
-![demo](./src/assets/images/readme_img/demo.png?raw=true)
+![demo](./assets/skiru.png?raw=true)
 
 A simple project compiler webpage application.
 
@@ -70,7 +70,7 @@ A simple project compiler webpage application that is created using HTML, CSS, a
 
 ### Mobile Display
 
-<img src="./src/assets/images/readme_img/demo-mobile.png" height="700">
+<img src="./assets/skiru-mobile.png" height="700">
 
 ## Development
 
@@ -81,7 +81,7 @@ A simple project compiler webpage application that is created using HTML, CSS, a
 
 # Rock Paper Scissors Web Game
 
-![demo](./src/assets/images/readme/demo.png?raw=true)
+![demo](./assets/rps.png?raw=true)
 
 A simple webpage that let users play rock-paper-scissors against the computer.
 
@@ -93,7 +93,7 @@ A simple beginner webpage that uses HTML, CSS, and Javascript. It runs a game of
 
 ### Mobile Display
 
-<img src="./src/assets/images/readme/demo-mobile.png" height="700">
+<img src="./assets/rps-mobile.png" height="700">
 
 ## Development
 
@@ -102,10 +102,9 @@ A simple beginner webpage that uses HTML, CSS, and Javascript. It runs a game of
 
 2. Go the directory and run through live server
 
-
 # Space Invaders 
 
-![demo](./src/assets/images/readme/demo.png?raw=true)
+![demo](./assets/spaceinvaders.png?raw=true)
 
 Play the classic Space Invaders game. This is created using the racket programming language.
 
@@ -125,7 +124,7 @@ A simple clone of the game space invaders done using the racket programming lang
 
 # Tetris 
 
-![demo](./src/assets/images/readme/demo.png?raw=true)
+![demo](./assets/tetris.png?raw=true)
 
 Play the classic tetris game. This is created using the ruby programming language.
 
@@ -142,6 +141,8 @@ A simple clone of the game tetris done using the ruby programming language.
 2. Run ruby tetrisrunner.rb
 
 # Research Presentation Material 
+
+![demo](./assets/sample.jpg?raw=true)
 
 **Link To Material**: https://github.com/re-nanashi/Projects/blob/main/assets/Research%20Presentation.pdf
 
