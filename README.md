@@ -1,5 +1,34 @@
 # Project Showcase
 
+# CrossCountry
+
+![demo](./assets/crosscountry.png?raw=true)
+
+## Description
+
+A simple Javascript crossword game.
+
+**Link To Repository**: https://github.com/re-nanashi/crosscountry-usa
+
+## Development
+
+1. Clone the project <br>
+   `git clone https://github.com/re-nanashi/crosscountry-usa.git`
+
+2. Go the directory and run npm install
+
+```
+npm install
+```
+
+3. Build the game
+
+```
+npm run build
+```
+
+4. Run the game by opening ./dist/index.html
+
 # Etch-A-Sketch
 
 ![demo](./assets/etchasketch.png?raw=true)
@@ -102,7 +131,7 @@ A simple beginner webpage that uses HTML, CSS, and Javascript. It runs a game of
 
 2. Go the directory and run through live server
 
-# Space Invaders 
+# Space Invaders
 
 ![demo](./assets/spaceinvaders.png?raw=true)
 
@@ -122,7 +151,7 @@ A simple clone of the game space invaders done using the racket programming lang
 
 3. Run the game by typing (main G0) to the Dr. Racket console
 
-# Tetris 
+# Tetris
 
 ![demo](./assets/tetris.png?raw=true)
 
@@ -140,9 +169,10 @@ A simple clone of the game tetris done using the ruby programming language.
 
 2. Run ruby tetrisrunner.rb
 
-# Research Presentation Material 
+# Graphic Designs
+
+![demo](./assets/graphic-design.png?raw=true)
 
 ![demo](./assets/sample.jpg?raw=true)
 
 **Link To Material**: https://github.com/re-nanashi/Projects/blob/main/assets/Research%20Presentation.pdf
-
